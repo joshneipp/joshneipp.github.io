@@ -1,3 +1,3 @@
 # Coaching with Kendra
 
-#### Website coming soon
+#### [kendraneipp.com](kendraneipp.com)
