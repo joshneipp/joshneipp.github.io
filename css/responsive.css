@@ -182,6 +182,7 @@ px      68    160    252    */
     padding-right: 5%;
     background: url("../img/woman-walks-bridge.jpg") no-repeat;
     background-size: cover;
+    width: 100%;
     background-attachment: fixed;
     background-position: 10% 0%;
     background-position: center;
