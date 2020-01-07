@@ -185,8 +185,6 @@ px      68    160    252    */
     background-attachment: fixed;
     background-position: 10% 0%;
     background-position: center;
-    position: relative;
-
   }
 
   #slider .block {
